@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Imran-Aim-News/static/css/main.abd64e84.css",
+    "main.js": "/Imran-Aim-News/static/js/main.22bd1f56.js",
+    "static/js/787.4c026eef.chunk.js": "/Imran-Aim-News/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/Imran-Aim-News/static/media/loading.d8d71eee114d34515148.gif",
+    "static/media/bg1.jpg": "/Imran-Aim-News/static/media/bg1.30eac004623661fc1b3e.jpg",
+    "index.html": "/Imran-Aim-News/index.html",
+    "main.abd64e84.css.map": "/Imran-Aim-News/static/css/main.abd64e84.css.map",
+    "main.22bd1f56.js.map": "/Imran-Aim-News/static/js/main.22bd1f56.js.map",
+    "787.4c026eef.chunk.js.map": "/Imran-Aim-News/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.22bd1f56.js"
+  ]
+}
